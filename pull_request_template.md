@@ -1,16 +1,19 @@
-## Har du följt utvecklingsrutinerna?
-Här: https://github.com/Advant-Digital/internal-documentation/wiki/Utvecklingsrutin
-- [ ] Jag har utgått från relevant och uppdaterad branch (develop eller master)
-- [ ] Jag har använt ett standardiserat branch-namn
+## Vad gör den här PR:en?
+Denna PR...
 
-## Vad innehåller den här PR:en?
-Beskriv vad denna PR gör
+## TODOs kvar att göra innan denna PR kan reviewas
+- [ ] Jag har följt våra [utvecklingsrutiner](https://github.com/Advant-Digital/internal-documentation/wiki/Utvecklingsrutin)
+- [ ] Utgått från relevant och uppdaterad branch (develop eller master) och använt ett standardiserat branch-namn (t.ex. `feature/article-listing-page´ eller `ticket/558-snowboard-school-rename`
+- [ ] Se till att inga rester i koden ligger kvar (tomma rader, `console.log`, oanvända `use`)
+- [ ] Funderat över om denna PR påverkar något annat
 
-## Vem ska göra merge?
-Jag eller den som granskar?
+## Vem ska göra merge? Jag eller den som granskar? Tagga gärna genom att skriva "@" och sen användarnamnet på personen.
+@
 
-## Spelar det någon roll när merge görs?
-Ja, tidigast X / Nej
+## Spelar det någon roll när merge görs? Ange gärna senast/tidigast datum
+Nej
 
-## Behöver något mer göras i samband med merge?
-T.ex. uppdatera något i produktionsmiljön
+## Behöver något mer göras för eller efter merge?
+- [ ] Före: Uppdatera X i admin (görs av X)
+- [ ] Efter: Testa följande länk (görs av X): 
+- [ ] Radera branchen
