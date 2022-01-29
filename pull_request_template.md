@@ -16,4 +16,5 @@ Nej
 ## Behöver något mer göras för eller efter merge?
 - [ ] Före: Uppdatera X i admin (görs av X)
 - [ ] Efter: Testa följande länk (görs av X): 
+- [ ] Efter: Stäng och svara på följande supportärende (görs av X): 
 - [ ] Radera branchen
