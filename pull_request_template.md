@@ -3,7 +3,7 @@ Denna PR...
 
 ## TODOs kvar att göra innan denna PR kan reviewas
 - [ ] Jag har följt våra [utvecklingsrutiner](https://github.com/Advant-Digital/internal-documentation/wiki/Utvecklingsrutin)
-- [ ] Utgått från relevant och uppdaterad branch (develop eller master) och använt ett standardiserat branch-namn (t.ex. `feature/article-listing-page´ eller `ticket/558-snowboard-school-rename`
+- [ ] Utgått från relevant och uppdaterad branch (develop eller master) och använt ett standardiserat branch-namn (t.ex. `feature/article-listing-page` eller `ticket/558-snowboard-school-rename`
 - [ ] Se till att inga rester i koden ligger kvar (tomma rader, `console.log`, oanvända `use`)
 - [ ] Funderat över om denna PR påverkar något annat
 
