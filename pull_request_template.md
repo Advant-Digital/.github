@@ -1,20 +1,22 @@
-## Vad gör den här PR:en?
-Denna PR...
+## What does this PR do?
+This PR ...
 
-## TODOs kvar att göra innan denna PR kan reviewas
-- [ ] Jag har följt våra [utvecklingsrutiner](https://github.com/Advant-Digital/internal-documentation/wiki/Utvecklingsrutin)
-- [ ] Utgått från relevant och uppdaterad branch (develop eller master) och använt ett standardiserat branch-namn (t.ex. `feature/article-listing-page` eller `ticket/558-snowboard-school-rename`
-- [ ] Se till att inga rester i koden ligger kvar (tomma rader, `console.log`, oanvända `use`)
-- [ ] Funderat över om denna PR påverkar något annat
+## TODOs left before this PR can be reviewed
+- [ ] I have followed our [development process](https://github.com/Advant-Digital/internal-documentation/wiki/Utvecklingsrutin)
+- [ ] Based the PR on relevant and updated branch (most often develop or master) and used a standardized branch name (e.g. `feature/article-listing-page` or `ticket/558-snowboard-school-rename`
+- [ ] Made sure that no excess code are still left in the code (empty rows, `console.log`, `debugger`, debugger code, unused `use`)
+- [ ] Though about if this PR affects something else than this isolated change
 
-## Vem ska göra merge? Jag eller den som granskar? Tagga gärna genom att skriva "@" och sen användarnamnet på personen.
+## Who will do the merge? Me or the reviewer? Tag the person with and "@" character and the username of the person
 @
 
-## Spelar det någon roll när merge görs? Ange gärna senast/tidigast datum
-Nej
+## Does it matter when the PR is merged? Write down earliest/latest date
+No
 
-## Behöver något mer göras för eller efter merge?
-- [ ] Före: Uppdatera X i admin (görs av X)
-- [ ] Efter: Testa följande länk (görs av X): 
-- [ ] Efter: Stäng och svara på följande supportärende (görs av X): 
-- [ ] Radera branchen
+## Does anything else has to be done BEFORE merge?
+- [ ] Update X in the admin panel (to be done by @)
+
+## Does anything else has to be done AFTER merge?
+- [ ] Verify the new PR on the following link (to be done by @): 
+- [ ] Reply to and close the following support ticket (to be done by @): https://advant.freshdesk.com/a/tickets/
+- [ ] Delete the branch
